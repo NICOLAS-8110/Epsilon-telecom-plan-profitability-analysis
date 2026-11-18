@@ -61,11 +61,11 @@ El estudio se desarrolló utilizando registros operativos de clientes de Megalin
 
 ## 📂 Archivos Principales
 * `Epsilon_telecom_plan_profitability_analysis.ipynb`
-* `megaline_users.csv`
 * `megaline_calls.csv`
-* `megaline_messages.csv`
 * `megaline_internet.csv`
+* `megaline_messages.csv`
 * `megaline_plans.csv`
+* `megaline_users.csv`
 
 ## 🏁 Conclusión
 El análisis demuestra que, aunque los patrones de llamadas y mensajes son similares entre los usuarios de Surf y Ultimate, el consumo de datos móviles y la estructura tarifaria marcan una diferencia sustancial en la facturación. Los clientes de **Ultimate** no solo aportan un ingreso promedio mayor ($72.12 USD frente a $57.29 USD), sino que garantizan un flujo de caja mucho más predecible. Respaldado por las pruebas estadísticas, se recomienda que Megaline enfoque sus esfuerzos comerciales y presupuestos publicitarios en promover el plan **Ultimate** para maximizar su rentabilidad.
